@@ -1,0 +1,24 @@
+{
+  "name": "appt-queue-test",
+  "version": "1.0.0",
+  "description": "queue test for MEMO Startec",
+  "main": "server.js",
+  "dependencies": {
+    "serialport": "^9.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/startec-official/memo-double-queue.git"
+  },
+  "author": "Startec Innovations",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/startec-official/memo-double-queue/issues"
+  },
+  "homepage": "https://github.com/startec-official/memo-double-queue#readme"
+}
